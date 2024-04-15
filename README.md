@@ -50,7 +50,7 @@ Written as a laboratory work for a university
 
 ## Example of the work
 
-The task is to implement `X = A - 5 (B - 2C) + 2', with `A = 50`, `B = 10`, `C = 2`
+The task is to implement `X = A - 5 (B - 2C) + 2`, with `A = 50`, `B = 10`, `C = 2`
 
 ```
 mov bx, 10 ;B
