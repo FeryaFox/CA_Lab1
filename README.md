@@ -33,6 +33,7 @@ add bx, 2
 ```
 
 В `bx` наш результат 
+
 ![img.png](img/img.png)
 
 # What kind of project (ENG)
@@ -69,5 +70,6 @@ sub bx, ax
 add bx, 2
 ```
 
-In `bx` our result
-is ![img.png](img/img.png)
+In `bx` our result is 
+
+![img.png](img/img.png)
