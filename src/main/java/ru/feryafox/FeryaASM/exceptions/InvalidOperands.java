@@ -6,4 +6,8 @@ public class InvalidOperands extends RuntimeException{
     public InvalidOperands(CommandType command, int codeLine){
         super("Неверный аргуемент в команде " + command + " в строке " + codeLine);
     }
+
+    public InvalidOperands(CommandType command){
+        super("Неверный аргуемент в команде " + command);
+    }
 }
